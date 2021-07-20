@@ -5,6 +5,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins';
+    width: 100%;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -14,7 +16,6 @@ body {
     font-size: 1.5em;
     margin: 0 auto;
     padding-left: 1em;
-    width: 100%;
 }
 
 .navbar h1 {
@@ -106,7 +107,6 @@ img {
     padding: 1em 1em;
     background: black;
     color: white;
-    width: 100%;
 }
 
 .right-col-2 img {

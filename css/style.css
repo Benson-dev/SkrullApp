@@ -13,7 +13,7 @@ body {
     color: white;
     font-size: 1.5em;
     margin: 0 auto;
-    padding-left: 2em;
+    padding-left: 1em;
     width: 100%;
 }
 
@@ -106,6 +106,7 @@ img {
     padding: 1em 1em;
     background: black;
     color: white;
+    width: 100%;
 }
 
 .right-col-2 img {
